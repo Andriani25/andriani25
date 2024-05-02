@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andriani Leandro</h1>
 <h3 align="center">A graduated Full-Stack Developer from Henry</h3>
-<h2 align="center">I'm from Argentina🧉 and actually looking for my first job. I have academic experience with group and individual projects, taking the job of full stack. Also i have experience of other type of works, out of developers world. Taking job as a bartender and seller, both with attention at the public. You can see it in my Linkedin profile.
+<h2 align="center">I'm from Argentina🧉 and actually looking for job. I have academic experience with group and individual projects, taking the job of full stack. Also i have experience of other type of works, out of developers world. Taking job as a bartender and seller, both with attention at the public. You can see it in my Linkedin profile.
  
  </h2>
 
