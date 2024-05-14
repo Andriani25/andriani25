@@ -11,6 +11,7 @@ https://andriani-portfolio.vercel.app/
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andriani-leandro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andriani-leandro/" height="30" width="40" /></a>
 <a href="https://instagram.com/andriani.leandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andriani.leandro" height="30" width="40" /></a>
+<a href="https://andriani-portfolio.vercel.app/" target="blank" height="30" width="40" ><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ficons%2Fwebsite&psig=AOvVaw3BxSwBFB8qk19FShSfot3O&ust=1715733240393000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDE6cTyi4YDFQAAAAAdAAAAABAE" alt="Portfolio" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
